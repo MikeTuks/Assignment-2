@@ -1,0 +1,23 @@
+# course-provided data (47 MB, re-download from STEMlearn)
+networkTraffic.csv
+
+# latex build artefacts
+*.aux
+*.log
+*.out
+*.blg
+*.bbl
+*.toc
+*.synctex.gz
+*.fdb_latexmk
+*.fls
+
+# python
+__pycache__/
+.ipynb_checkpoints/
+
+# report sources and documents (kept out of the code repo)
+*.tex
+*.md
+*.pdf
+*.bib
